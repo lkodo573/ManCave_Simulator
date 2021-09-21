@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
-  controlID: 71
+  controlID: 22
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 72
+  controlID: 23
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -243,7 +243,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 73
+  controlID: 24
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -342,7 +342,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\lkodo573\Documents\Man_Cave_Simulator\ManCaveSimulator
+  m_LastProjectPath: C:\Users\lkodo573\Documents\ManCave_Simulator\ManCaveSimulator
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -404,7 +404,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -496,8 +496,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
+      m_SelectedIDs: f20b0000
+      m_LastClickedID: 3058
       m_ExpandedIDs: d4fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -553,9 +553,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 2.403484, y: 3.482714, z: -4.123399}
+    m_Target: {x: -4.926117, y: 2.4740903, z: -4.2446156}
     speed: 2
-    m_Value: {x: 2.403484, y: 3.482714, z: -4.123399}
+    m_Value: {x: -4.926117, y: 2.4740903, z: -4.2446156}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -583,13 +583,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.0089954315, y: 0.030901883, z: 0.00027817776, w: -0.9994819}
+    m_Target: {x: 0.041281283, y: -0.83220476, z: 0.062533066, w: 0.5493821}
     speed: 2
-    m_Value: {x: 0.0089954315, y: 0.030901883, z: 0.00027817776, w: -0.9994819}
+    m_Value: {x: 0.041281283, y: -0.83220476, z: 0.062533066, w: 0.5493821}
   m_Size:
-    m_Target: 3.5298357
+    m_Target: 8.965385
     speed: 2
-    m_Value: 3.5298357
+    m_Value: 8.965385
   m_Ortho:
     m_Target: 0
     speed: 2
